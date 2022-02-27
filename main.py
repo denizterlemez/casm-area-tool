@@ -543,7 +543,7 @@ else:
 
 
             client = MyClient()
-            client.run('ODQwNTUyNjc5NzYzNDc2NDkw.YhpIzA.9yw95Tg5doYr5NMuW2cwXgejCt4')
+            client.run('')
 
 
 
