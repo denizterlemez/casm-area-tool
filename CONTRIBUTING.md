@@ -1,1 +1,1 @@
-[MAMOSKO](https://github.com/MAMOSKO
+[MAMOSKO](https://github.com/MAMOSKO)
